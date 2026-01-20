@@ -1,3 +1,6 @@
+
+![TSA Dashboard](https://github.com/user-attachments/assets/04b5d40e-76bf-44f6-bbfd-a0b32a3e9d47)
+
 ## ABC Retail Store Sales Analysis
 ---
 
@@ -68,17 +71,25 @@ The Analysis Results are Summarized as follows:
     
   - Total COGS: N1,862,696,000
     
-  - Total Profit: N465,674,000 (Margin:N20)
+  - Total Profit: N465,674,000 (Margin:20%)
     
   - Total Customer Transactions: 2,098
     
-2. **Product by Profit:** Laptop A13 is the most profitable product N105.3M          Profit, while Blender B10 is the least.
+2. **Product by Profit:** Laptop A13 is the most profitable product N105.3M Profit, while Blender B10 is the least.
+   
+  ![Product by Reven](https://github.com/user-attachments/assets/8107e033-0aa4-4d39-984a-4b1881765a60)
 
 3. **Sales Rep by Revenue:** Peter is the top performer N434.8M, followed closely by Musa.
+   
+   ![Sales rep](https://github.com/user-attachments/assets/4691b4de-22c4-475d-9a89-9c53cc9bd3ac)
 
 4. **City by COGS:** Lagos has the highest Cost of Goods Sold N493.8M, indicating it is the most expensive hub to operate.
+   
+![Location by COGS](https://github.com/user-attachments/assets/8ae9ac3d-cf3c-4a9d-b74c-b53e036e067d)
 
 5. **Monthly Customer Trend:** April was the peak month (536 transactions). May is the worst performing month (18 transactions)
+   
+![month by customer](https://github.com/user-attachments/assets/ff719416-f185-4f74-a1fd-52a027ec3620)
 
 Note: If May is the current month, this might indicate incomplete data; otherwise, it marks a severe seasonal drop.
 
